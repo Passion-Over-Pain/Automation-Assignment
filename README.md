@@ -1,3 +1,9 @@
+# Automation Programmable Logic Controller Assignment
+
+![Banner](https://github.com/user-attachments/assets/0dd915ff-b492-4453-b657-032d4e9d074a)
+
+---
+
 
 >[!NOTE]
 >To run the application in development mode, Siemens Logo is required on the end host (your machine).

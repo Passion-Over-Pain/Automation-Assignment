@@ -107,10 +107,12 @@ Draw.io – Block Diagram
 Microsoft Word – Flowchart and Documentation
 Siemens Logo Soft Comfort – PLC
 
-References:
-Ladder Logic Symbols: A Comprehensive Guide | Cassiano Ferro Moraes | https://www.wevolver.com/article/ladder-logic-symbols-a-comprehensive-guide
-Logo Soft Comfort | Siemens | Logo Soft Comfort | Siemens | Logo Soft Comfort | Siemens | https://www.siemens.com/global/en/products/automation/systems/industrial/plc/logo/logo-software.html
-What is a programmable logic controller | Tech Target | https://www.techtarget.com/whatis/definition/programmed-logic-controller-PLC
-What is a block diagram and how to create one | Miro | https://miro.com/diagramming/what-is-a-block-diagram/
-What is a flow chart | Miro | https://miro.com/flowchart/what-is-a-flowchart/
+---
+<p align="center" style="font-family: 'Times New Roman', serif;">
+  <a href="https://dev.to/passionoverpain">Dev.to</a> |
+  <a href="mailto:tinomhedziso21@gmail.com">Email</a> |
+  <a href="https://github.com/Passion-Over-Pain">GitHub</a> |
+  <a href="https://www.linkedin.com/in/tinotenda-mhedziso/">LinkedIn</a> |
+  <a href="https://tinotenda-mhedziso.pages.dev/">Website</a>
+</p>
 
